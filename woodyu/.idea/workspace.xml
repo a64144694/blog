@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33e9721d-4e73-4fcc-9ff2-b81b49826b0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/templatetags/my_filters_and_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/comment/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/logs/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/media/article/20200723/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/media/avatar/20200723/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/media/avatar/20200724/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/notice/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/Creating and Editing Code Snippets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/Installation Guide.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/ckeditor/ckeditor/plugins/prism/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/csrf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/mobile/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/mobile/need/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/layer/theme/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/md_css/monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/popper/popper-1.14.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/prism/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/static/sticky_sidebar/jquery.sticky-sidebar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/account/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/create_by_class_view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/tag_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/article/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/back_to_top_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/comment/reply.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/notice/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/userprofile/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/userprofile/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/userprofile/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/userprofile/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1f2zOZDWDAKCj5RKTp4yvhkmVaf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33e9721d-4e73-4fcc-9ff2-b81b49826b0e" name="Default Changelist" comment="" />
+      <created>1595430943803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595430943803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1158" y="281" key="FileChooserDialogImpl" timestamp="1595440100039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1158" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595440100039" />
+    <state x="495" y="142" key="SettingsEditor" timestamp="1597558933051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597558933051" />
+    <state x="1120" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595440079508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1120" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595440079508" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/forms.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/article/tests.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
